@@ -15,7 +15,7 @@ var svg = d3.select("body")
 svg.append("text")
 .attr("x",300)
 .attr("y",15)
-.text("Visualize RSSI for each tagmac associated endpoints (In Motion)")
+.text("Visualize RSSI for each tagmac associated Channel 37 (In Motion)")
 .attr("font-size",22)
 .attr("text-anchor","middle")
 
